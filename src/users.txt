@@ -3,3 +3,5 @@ USR001,fiza parveen v s,fiza@gmail.com
 USR002,aman ubaid said ,aman@gmail.com
 USR003,risana,risana@gmail.com
 USR004,nidha balkees,nidha@gmail.com
+USR005,shamlikhan,shamli@gmail.com
+USR006,razal,razal@gmail.com
