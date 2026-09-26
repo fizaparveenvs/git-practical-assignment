@@ -56,3 +56,6 @@ The user management functionality allows the system to store and manage user rec
 ## Account Management
 
 The account management feature allows users to update their account information and preferences.
+## Profile Management
+
+The profile management feature allows users to maintain and update their profile information.
