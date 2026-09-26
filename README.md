@@ -36,3 +36,15 @@ The payment module supports sample payment statuses including:
 - SUCCESS
 - PENDING
 - FAILED
+
+## User Management
+
+The user management module stores basic user information in `src/users.txt`.
+
+Each user record contains:
+
+- User ID
+- Name
+- Email
+
+The feature branch `feature/user-management` is used to develop and document user-management functionality before merging it into the main branch.
