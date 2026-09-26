@@ -48,3 +48,7 @@ Each user record contains:
 - Email
 
 The feature branch `feature/user-management` is used to develop and document user-management functionality before merging it into the main branch.
+
+## Profile Management
+
+The profile management feature allows users to maintain and update their profile information.
