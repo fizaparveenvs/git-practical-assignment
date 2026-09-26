@@ -19,6 +19,24 @@ git-practical-assignment/
 └── docs/
     └── architecture.md
 
+## Payment Module
+
+The payment module stores payment information in `src/payments.txt`.
+
+Each payment record contains:
+
+- Payment ID
+- User ID
+- Amount
+- Currency
+- Status
+
+The payment module supports sample payment statuses including:
+
+- SUCCESS
+- PENDING
+- FAILED
+
 ## User Management
 
 The user management module stores basic user information in `src/users.txt`.
