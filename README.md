@@ -67,3 +67,5 @@ This update was made on the main branch.
 ## Interactive Rebase Demo
 
 This section demonstrates interactive rebase.
+
+Interactive rebase helps maintain a clean commit history.
