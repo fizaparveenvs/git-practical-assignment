@@ -63,3 +63,7 @@ The profile management feature allows users to maintain and update their profile
 ## Main Branch Update
 
 This update was made on the main branch.
+
+## Interactive Rebase Demo
+
+This section demonstrates interactive rebase.
